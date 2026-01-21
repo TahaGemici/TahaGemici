@@ -1,37 +1,26 @@
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
+<table>
+<tr>
+<td>
 
-<h2 align="left">Merhaba 👋! My name is Taha, and I'm a Hardware Design Engineer from Türkiye.</h2>
+[![My github stats](https://github-readme-stats.vercel.app/api?username=TahaGemici&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
 
-###
+</td>
+<td>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaGemici&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaGemici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaGemici&layout=compact&langs_count=4)]()
 
-###
+</td>
+</tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-</div>
 
-###
+### ⚡My Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![bluespec](https://img.shields.io/badge/-Bluespec-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![csharp](https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=ffffff)
 
-###
+* ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/TahaGemici/TahaGemici/output/snake.svg" alt="Snake animation" />
 
-###
+<img align="right" src="https://komarev.com/ghpvc/?username=TahaGemici&color=green">
